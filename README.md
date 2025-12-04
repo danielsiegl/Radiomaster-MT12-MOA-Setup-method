@@ -27,6 +27,6 @@ This setup method will configure your Radiomaster MT12 remote control to be suit
 ### Regarding the S1 knob, you can also set it to the rear axle servo in the 4WS.
 
 ### I've also provided a pre-configured yml file. You can download it, copy it to the MODELS directory on the remote control's SD card, and then enable it.
-### [Download yml File]([https://www.facebook.com/rcchaorenwei](https://github.com/Fcwg1/Radiomaster-MT12-MOA-Setup-method/blob/main/model05.yml))
+### [Download yml File]([https://github.com/Fcwg1/Radiomaster-MT12-MOA-Setup-method/blob/main/model05.yml])
 
 ### For more interesting content, please visit my [Facebook](https://www.facebook.com/rcchaorenwei)
