@@ -25,3 +25,4 @@ This setup method will configure your Radiomaster MT12 remote control to be suit
 
 ### At this point, your S2 knob will play a corresponding beep when it returns to the center position.
 
+### For more interesting content, please visit my [Facebook](https://www.facebook.com/rcchaorenwei)
