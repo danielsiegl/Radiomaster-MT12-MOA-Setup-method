@@ -29,7 +29,7 @@ This setup method will configure your Radiomaster MT12 remote control to be suit
 ### I've also provided a pre-configured yml file. You can download it, copy it to the MODELS directory on the remote control's SD card, and then enable it.
 ### [Download yml File](https://github.com/Fcwg1/Radiomaster-MT12-MOA-Setup-method/blob/main/model05.yml)
 
-### [Daniels](https://github.com/danielsiegl/) contributed a pre-configured yml file. That works with [lever from Harley](https://harleydesigns.com/store/p/radiomaster-mt12-rear-steer-knob)
+### [Daniels](https://github.com/danielsiegl/) contributed a pre-configured yml file. That works with the 3D printed [lever from Harley](https://harleydesigns.com/store/p/radiomaster-mt12-rear-steer-knob)
 ### [Download yml File](https://github.com/Fcwg1/Radiomaster-MT12-MOA-Setup-method/blob/main/model07.yml)
 
 ### For more interesting content, please visit my [Facebook](https://www.facebook.com/rcchaorenwei)
